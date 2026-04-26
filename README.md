@@ -32,7 +32,7 @@ To run this application, you need Python installed on your system along with the
 pip install Pillow
 ```
 
-## 🚀 How to Run
+## 🚀 How to Run (If you don't run the exe directly)
 
 1. Clone or download this repository.
 2. Navigate to the project directory.
